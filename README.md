@@ -1,1 +1,1 @@
-# RPS-game
+This project uses Python code and it allows two users to play rock, paper, scissors against each other. The programme keeps track of the score and declares a winner once a player has won three rounds.
